@@ -5,7 +5,7 @@ input_file = 'input.csv'
 output_file = 'output.csv'
 
 # specify the column index that needs to be converted
-column_index = 5
+column_index = 6
 
 # read the input CSV file
 with open(input_file, 'r') as csvfile:
